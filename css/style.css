@@ -1,0 +1,25 @@
+.row{
+    margin: 16px;
+    display: flex;
+    height: 40px;
+}
+
+.col{
+    border:4px;
+    background-color: bisque;
+    flex:1;
+    border: solid black;
+
+}
+
+.col-2{
+    border: solid black;
+    background-color: palegreen;
+    flex:2;
+}
+.col-3{
+    border: solid black;
+    background-color: palevioletred;
+    flex:3;
+
+}
